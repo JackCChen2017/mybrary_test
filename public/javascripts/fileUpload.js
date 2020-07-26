@@ -1,4 +1,3 @@
-console.log("in fileUpload.js")
 FilePond.registerPlugin(
     FilePondPluginImagePreview,
     FilePondPluginImageResize,
